@@ -6,3 +6,4 @@
 6 Jingle all the way
 7 Oh, what fun it is to ride
 8 In a one horse open sleigh
+9 --------------------------
